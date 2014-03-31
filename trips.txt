@@ -172,7 +172,14 @@ Taiyuan 2013: Train 1505km (Shanghai-Taiyuan), 108km*2 (Taiyuan-Pingyao), 224km 
 Postcard: Feng Shan (from Pingyao/Shijiazhuang)
 #Train: 3351km, Bus/Taxi: 37km
 
-Total (+Taiwan): 29234km, Train 23638km, Bus 2513km, Drive 906km, Air 1189km, Boat 726km, Cycle 255km, Other 7km.
+Xibei 2014: Air 1772km (PVG-LHW), Train 228km (Lanzhou-Xiningxi), Bus 145km*2 (Xining-G109+2103), Train 904km (Xiningxi-Xian), Air 813km (XIY-CSX)
+Postcard: Dai Shanjia (from Xining), Zhou Junlong, Zou Linjun, Luo Pinyi (from Xian)
+#Train: 1132km, Air 2585km, Bus 290km
+
+Nanjing 2014: Train 301km (Shanghai-Nanjing), 295km (Nanjingnan-Shanghaihongqiao)
+#Train: 596km
+
+Total (+Taiwan): 33837km, Train 25366km, Bus 2803km, Drive 906km, Air 3774km, Boat 726km, Cycle 255km, Other 7km.
 
 ----
 
