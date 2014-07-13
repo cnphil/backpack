@@ -176,10 +176,19 @@ Xibei 2014: Air 1772km (PVG-LHW), Train 228km (Lanzhou-Xiningxi), Bus 145km*2 (X
 Postcard: Dai Shanjia (from Xining), Zhou Junlong, Zou Linjun, Luo Pinyi (from Xian)
 #Train: 1132km, Air 2585km, Bus 290km
 
-Nanjing 2014: Train 301km (Shanghai-Nanjing), 295km (Nanjingnan-Shanghaihongqiao)
+Nanjing 2014: Train 301km (Shanghai-Nanjing), 33km (Nanjing-Zhonghuamen), 295km (Nanjingnan-Shanghaihongqiao)
+#Train: 629km
+
+Tianjin 2014: Train 1463km (Shanghai-Beijing), 4km (Qinghuayuan-Beijingbei), 148km (Beijingnan-Tianjinxi), 125km (Tianjin-Huangcun), Air 970km (TSN-SHA, CA1527)
+#Train: 1740km, Air 970km
+
+Nanjing II 2014: Train 295km (Shanghaihongqiao-Nanjingnan), 301km (Nanjing-Shanghai)
 #Train: 596km
 
-Total (+Taiwan): 33837km, Train 25366km, Bus 2803km, Drive 906km, Air 3774km, Boat 726km, Cycle 255km, Other 7km.
+Huangshan 2014: Train 672km (Shanghai-Huangshan), Bus 55km (Tunxi-Tangkou), 32km (Tangkou-Hongcun), 39km (Hongcun-Feicuigu), 8km (Feicuigu-Tangkou), 55km (Tunxi-Tangkou), Air 375km (TXN-SHA, FM9268)
+#Train: 672km, Bus: 189km, Air: 375km
+
+Total (+Taiwan): 38412km, Train 28407km, Bus 2992km, Drive 906km, Air 5119km, Boat 726km, Cycle 255km, Other 7km.
 
 ----
 
