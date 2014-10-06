@@ -188,7 +188,10 @@ Nanjing II 2014: Train 295km (Shanghaihongqiao-Nanjingnan), 301km (Nanjing-Shang
 Huangshan 2014: Train 672km (Shanghai-Huangshan), Bus 55km (Tunxi-Tangkou), 32km (Tangkou-Hongcun), 39km (Hongcun-Feicuigu), 8km (Feicuigu-Tangkou), 55km (Tunxi-Tangkou), Air 375km (TXN-SHA, FM9268)
 #Train: 672km, Bus: 189km, Air: 375km
 
-Total (+Taiwan): 38534km, Train 28529km, Bus 2992km, Drive 906km, Air 5119km, Boat 726km, Cycle 255km, Other 7km.
+Jiujiang 2014: Train 952km (Shanghainan-Jiujiang), 328km (Jiujiang-Hankou), 362km (Wuhan-Changshanan), Bus 72km (Jiujiang-Lushan-Jiujiang)
+#Train: 1642km, Bus: 72km
+
+Total (+Taiwan): 40248km, Train 30171km, Bus 3064km, Drive 906km, Air 5119km, Boat 726km, Cycle 255km, Other 7km.
 
 ----
 

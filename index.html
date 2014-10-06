@@ -3,218 +3,138 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<style>
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote {
-    margin: 0;
-    padding: 0;
-}
-body {
-    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "微軟正黑體", "Microsoft JhengHei", "微软正黑体", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
-    font-size: 15px;
-    line-height: 19px;
-    color: rgba(255, 255, 255, 1);
-    -webkit-font-smoothing: antialiased;
-    text-shadow:0 0 1px black;
-    /*margin: 10px 13px 10px 13px;*/
-    background-color: #0d090c;
-}
-strong {
-    color: rgba(255, 255, 255, 1);
-}
-a {
-    color: #0069d6;
-}
-a:hover {
-    color: #0050a3;
-    text-decoration: none;
-}
-a img {
-    border: none;
-}
-p {
-    margin-bottom: 9px;
-}
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    color: white;
-    line-height: 36px;
-}
-h1 {
-    margin-bottom: 18px;
-    font-size: 30px;
-}
-h2 {
-    font-size: 24px;
-}
-h3 {
-    font-size: 18px;
-}
-h4 {
-    font-size: 16px;
-}
-h5 {
-    font-size: 14px;
-}
-h6 {
-    font-size: 13px;
-}
-hr {
-    margin: 0 0 19px;
-    border: 0;
-    border-bottom: 1px solid #ccc;
-}
-blockquote {
-    padding: 13px 13px 21px 15px;
-    margin-bottom: 18px;
-    font-family:georgia,serif;
-    font-style: italic;
-}
-blockquote:before {
-    content:"\201C";
-    font-size:40px;
-    margin-left:-10px;
-    font-family:georgia,serif;
-    color:#eee;
-}
-blockquote p {
-    font-size: 14px;
-    font-weight: 300;
-    line-height: 18px;
-    margin-bottom: 0;
-    font-style: italic;
-}
-code, pre {
-    font-family: Monaco, Andale Mono, Courier New, monospace;
-}
-code {
-    background-color: #fee9cc;
-    color: rgba(0, 0, 0, 0.75);
-    padding: 1px 3px;
-    font-size: 12px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
-}
-pre {
-    display: block;
-    padding: 14px;
-    margin: 0 0 18px;
-    line-height: 16px;
-    font-size: 11px;
-    border: 1px solid #d9d9d9;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-}
-pre code {
-    background-color: #fff;
-    color:#737373;
-    font-size: 11px;
-    padding: 0;
-}
-@media screen and (min-width: 768px) {
-    body {
-        width: 600px;
-        margin:10px auto;
-    }
-}
+		<style scoped>
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		p,
+		blockquote {
+		    margin: 0;
+		    padding: 0;
+		}
+		body {
+            font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "微軟正黑體", "Microsoft JhengHei", "微软正黑体", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+		    font-size: 13px;
+		    line-height: 18px;
+		    color: #737373;
+		    margin: 10px 13px 10px 13px;
+		}
+		a {
+		    color: #0069d6;
+		}
+		a:hover {
+		    color: #0050a3;
+		    text-decoration: none;
+		}
+		a img {
+		    border: none;
+		}
+		p {
+		    margin-bottom: 9px;
+		}
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+		    color: #404040;
+		    line-height: 36px;
+		}
+		h1 {
+		    margin-bottom: 18px;
+		    font-size: 30px;
+		}
+		h2 {
+		    font-size: 24px;
+		}
+		h3 {
+		    font-size: 18px;
+		}
+		h4 {
+		    font-size: 16px;
+		}
+		h5 {
+		    font-size: 14px;
+		}
+		h6 {
+		    font-size: 13px;
+		}
+		hr {
+		    margin: 0 0 19px;
+		    border: 0;
+		    border-bottom: 1px solid #ccc;
+		}
+		blockquote {
+		    padding: 13px 13px 21px 15px;
+		    margin-bottom: 18px;
+		    font-family:georgia,serif;
+		    font-style: italic;
+		}
+		blockquote:before {
+		    content:"\201C";
+		    font-size:40px;
+		    margin-left:-10px;
+		    font-family:georgia,serif;
+		    color:#eee;
+		}
+		blockquote p {
+		    font-size: 14px;
+		    font-weight: 300;
+		    line-height: 18px;
+		    margin-bottom: 0;
+		    font-style: italic;
+		}
+		code, pre {
+		    font-family: Monaco, Andale Mono, Courier New, monospace;
+		}
+		code {
+		    background-color: #fee9cc;
+		    color: rgba(0, 0, 0, 0.75);
+		    padding: 1px 3px;
+		    font-size: 12px;
+		    -webkit-border-radius: 3px;
+		    -moz-border-radius: 3px;
+		    border-radius: 3px;
+		}
+		pre {
+		    display: block;
+		    padding: 14px;
+		    margin: 0 0 18px;
+		    line-height: 16px;
+		    font-size: 11px;
+		    border: 1px solid #d9d9d9;
+		    white-space: pre-wrap;
+		    word-wrap: break-word;
+		}
+		pre code {
+		    background-color: #fff;
+		    color:#737373;
+		    font-size: 11px;
+		    padding: 0;
+		}
+		@media screen and (min-width: 768px) {
+		    body {
+		        width: 748px;
+		        margin:10px auto;
+		    }
+		}
+		</style>
 
-@-webkit-keyframes blurscale {
-    0% {
-        -webkit-transform: scale(1.05);
-        transform: scale(1.05);
-    }
-
-    100% {
-        -webkit-transform: scale(1.6);
-        transform: scale(1.6);
-    }
-}
-
-@keyframes blurscale {
-    0% {
-        -webkit-transform: scale(1.05);
-        transform: scale(1.05);
-    }
-
-    100% {
-        -webkit-transform: scale(1.6);
-        transform: scale(1.6);
-    }
-}
-
-#backblur {
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    bottom: 0px;
-    width: 100%;
-    height: 100%;
-
-    background-size: cover;
-    z-index: -1;
-}
-
-.blur-animation {
-    -webkit-filter: blur(25px) brightness(60%);
-    filter: blur(25px) brightness(60%);
-    -webkit-transform: scale(1.05);
-    transform: scale(1.05);
-    -webkit-animation: 25s blurscale infinite alternate;
-    animation: 25s blurscale infinite alternate;
-    -webkit-animation-timing-function: ease-in-out;
-    /*background: url('lightbg.jpg') no-repeat center center;*/ 
-}
-
-#gray-overlay {
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    bottom: 0px;
-    width: 100%;
-    height: 100%;
-    
-    background-color: rgba(12, 16, 30, 0);
-}
-
-.highbox {
-    background-color: rgba(25, 25, 25, 0.3);
-    padding: 10px;
-    border-radius: 10px;
-    margin-bottom: 10px;
-}
-
-</style>
 <title>我的旅行: 中国</title>
 
 </head>
 <body>
 
-<div id="backblur" class="blur-animation">
-    
-    <div id="canvasBubbles" style="position: fixed; top: 0; bottom: 0; left: 0; right: 0;">
-    </div>
-
-<div id="gray-overlay"></div></div>
-
 <h1 style="width: 100%;">
-    <img src="handwriting.png" width="160" height="103" />
+    <img src="http://cnphil.com/handwriting.png" width="160" height="103" />
     <span id="globe" style="margin-top: 10px; float: right;"> </span>
 </h1>
 
-<p>自 2009.07 起的 <strong>26 段独立策划背包旅程</strong>中，铁路 28529km，公路 2992km，航空 5119km，自驾 906km，航运 726km，骑行 255km，总背包旅行路程超过 <strong>38534km</strong>，相当于地球赤道的 0.96 倍。</p>
+<p>自 2009.07 起的 <strong>27 段独立策划背包旅程</strong>中，铁路 30171km，公路 3064km，航空 5119km，自驾 906km，航运 726km，骑行 255km，总背包旅行路程超过 <strong>40248km</strong>，相当于地球赤道的 1.01 倍。</p>
 
 <p>截至目前的最佳旅行: 穿越 5 省 11 市的独自骑行台湾成年之旅 (<a href="#featured">August '13</a>)</p>
 
@@ -222,9 +142,9 @@ pre code {
 
 <h3>乘降过的站点</h3>
 
-<p>按照第一次到达顺序排列，共计 69 个铁路车站，14 个航空站，4 个港口。</p>
+<p>按照第一次到达顺序排列，共计 71 个铁路车站，14 个航空站，4 个港口。</p>
 
-<p><strong>铁路车站</strong>: <abbr title="-CSQ">长沙站</abbr>、<abbr title="-GZQ">广州站</abbr>、<abbr title="-MMZ">茂名站</abbr>、<abbr title="-BXP">北京西站</abbr>、<abbr title="-ZVQ">肇庆站</abbr>、<abbr title="-SZQ">深圳站</abbr>、<abbr title="-ZZF">郑州站</abbr>、<abbr title="-CDW">成都站</abbr>、<abbr title="-YAK">烟台站</abbr>、<abbr title="-JNK">济南站</abbr>、<abbr title="-SNH">上海南站</abbr>、<abbr title="-HZH">杭州站</abbr>、<abbr title="-JSH">嘉善站</abbr>、<abbr title="-AOH">上海虹桥站</abbr>、<abbr title="-ICW">成都东站</abbr>、<abbr title="-IZQ">广州南站</abbr>、<abbr title="-ZIQ">珠海北站</abbr>、<abbr title="-CWQ">长沙南站</abbr>、<abbr title="-QDK">青岛站</abbr>、<abbr title="-SHH">上海站</abbr>、<abbr title="-SZH">苏州站</abbr>、<abbr title="-NCG">南昌站</abbr>、<abbr title="-JXH">嘉兴站</abbr>、<abbr title="-HGH">杭州东站</abbr>、<abbr title="-IOQ">深圳北站</abbr>、<abbr title="TRA-100">台北车站</abbr>、<abbr title="TRA-051">花莲车站</abbr>、<abbr title="TRA-004">台东车站</abbr>、<abbr title="TRA-203">枋寮车站</abbr>、<abbr title="TRA-185">高雄车站</abbr>、<abbr title="TRA-097">南港车站</abbr>、<abbr title="TRA-288">新左营车站</abbr>、<abbr title="-FZS">福州站</abbr>、<abbr title="-ZZQ">株洲站</abbr>、<abbr title="-WCN">武昌站</abbr>、<abbr title="-ZAQ">株洲西站</abbr>、<abbr title="-WHN">武汉站</abbr>、<abbr title="-NKH">南京南站</abbr>、<abbr title="-OHH">苏州北站</abbr>、<abbr title="-BGH">金山卫站</abbr>、<abbr title="-WXH">无锡站</abbr>、<abbr title="-NVH">宁波东站</abbr>、<abbr title="-FHH">奉化站</abbr>、<abbr title="-REH">金山园区站</abbr>、<abbr title="-TVH">亭林站</abbr>、<abbr title="-YOH">叶榭站</abbr>、<abbr title="-MIH">车墩站</abbr>、<abbr title="-XQH">新桥站</abbr>、<abbr title="-CSA">春申站</abbr>、<abbr title="-SXH">上海西站</abbr>、<abbr title="-HKH">黄山站</abbr>、<abbr title="-OVH">歙县站</abbr>、<abbr title="-TYV">太原站</abbr>、<abbr title="-PYV">平遥站</abbr>、<abbr title="-SJP">石家庄站</abbr>、<abbr title="-LZJ">兰州站</abbr>、<abbr title="-XXO">西宁西站</abbr>、<abbr title="-XAY">西安站</abbr>、<abbr title="-SYQ">邵阳站</abbr>、<abbr title="-NJH">南京站</abbr>、<abbr title="-VNH">中华门站</abbr>、<abbr title="-BJP">北京站</abbr>、<abbr title="-QHP">清华园站</abbr>、<abbr title="-VAP">北京北站</abbr>、<abbr title="-VNP">北京南站</abbr>、<abbr title="-TXP">天津西站</abbr>、<abbr title="-TJP">天津站</abbr>、<abbr title="-HCP">黄村站</abbr>、<abbr title="-TIP">天津南站</abbr></p>
+<p><strong>铁路车站</strong>: <abbr title="-CSQ">长沙站</abbr>、<abbr title="-GZQ">广州站</abbr>、<abbr title="-MMZ">茂名站</abbr>、<abbr title="-BXP">北京西站</abbr>、<abbr title="-ZVQ">肇庆站</abbr>、<abbr title="-SZQ">深圳站</abbr>、<abbr title="-ZZF">郑州站</abbr>、<abbr title="-CDW">成都站</abbr>、<abbr title="-YAK">烟台站</abbr>、<abbr title="-JNK">济南站</abbr>、<abbr title="-SNH">上海南站</abbr>、<abbr title="-HZH">杭州站</abbr>、<abbr title="-JSH">嘉善站</abbr>、<abbr title="-AOH">上海虹桥站</abbr>、<abbr title="-ICW">成都东站</abbr>、<abbr title="-IZQ">广州南站</abbr>、<abbr title="-ZIQ">珠海北站</abbr>、<abbr title="-CWQ">长沙南站</abbr>、<abbr title="-QDK">青岛站</abbr>、<abbr title="-SHH">上海站</abbr>、<abbr title="-SZH">苏州站</abbr>、<abbr title="-NCG">南昌站</abbr>、<abbr title="-JXH">嘉兴站</abbr>、<abbr title="-HGH">杭州东站</abbr>、<abbr title="-IOQ">深圳北站</abbr>、<abbr title="TRA-100">台北车站</abbr>、<abbr title="TRA-051">花莲车站</abbr>、<abbr title="TRA-004">台东车站</abbr>、<abbr title="TRA-203">枋寮车站</abbr>、<abbr title="TRA-185">高雄车站</abbr>、<abbr title="TRA-097">南港车站</abbr>、<abbr title="TRA-288">新左营车站</abbr>、<abbr title="-FZS">福州站</abbr>、<abbr title="-ZZQ">株洲站</abbr>、<abbr title="-WCN">武昌站</abbr>、<abbr title="-ZAQ">株洲西站</abbr>、<abbr title="-WHN">武汉站</abbr>、<abbr title="-NKH">南京南站</abbr>、<abbr title="-OHH">苏州北站</abbr>、<abbr title="-BGH">金山卫站</abbr>、<abbr title="-WXH">无锡站</abbr>、<abbr title="-NVH">宁波东站</abbr>、<abbr title="-FHH">奉化站</abbr>、<abbr title="-REH">金山园区站</abbr>、<abbr title="-TVH">亭林站</abbr>、<abbr title="-YOH">叶榭站</abbr>、<abbr title="-MIH">车墩站</abbr>、<abbr title="-XQH">新桥站</abbr>、<abbr title="-CSA">春申站</abbr>、<abbr title="-SXH">上海西站</abbr>、<abbr title="-HKH">黄山站</abbr>、<abbr title="-OVH">歙县站</abbr>、<abbr title="-TYV">太原站</abbr>、<abbr title="-PYV">平遥站</abbr>、<abbr title="-SJP">石家庄站</abbr>、<abbr title="-LZJ">兰州站</abbr>、<abbr title="-XXO">西宁西站</abbr>、<abbr title="-XAY">西安站</abbr>、<abbr title="-SYQ">邵阳站</abbr>、<abbr title="-NJH">南京站</abbr>、<abbr title="-VNH">中华门站</abbr>、<abbr title="-BJP">北京站</abbr>、<abbr title="-QHP">清华园站</abbr>、<abbr title="-VAP">北京北站</abbr>、<abbr title="-VNP">北京南站</abbr>、<abbr title="-TXP">天津西站</abbr>、<abbr title="-TJP">天津站</abbr>、<abbr title="-HCP">黄村站</abbr>、<abbr title="-TIP">天津南站</abbr>、<abbr title="-JJG">九江站</abbr>、<abbr title="-HKN">汉口站</abbr></p>
 
 <p><strong>航空站</strong>: <abbr title="CSX/ZGHA">长沙黄花机场</abbr>、<abbr title="SYX/ZJSY">三亚凤凰机场</abbr>、<abbr title="TAO/ZSQD">青岛流亭机场</abbr>、<abbr title="TNA/ZSJN">济南遥墙机场</abbr>、<abbr title="PVG/ZSPD">上海浦东机场</abbr>、<abbr title="SHA/ZSSS">上海虹桥机场</abbr>、<abbr title="SZX/ZGSZ">深圳宝安机场</abbr>、<abbr title="TPE/RCTP">台北桃园机场</abbr>、<abbr title="KHH/RCKH">高雄小港机场</abbr>、<abbr title="FOC/ZSFZ">福州长乐机场</abbr>、<abbr title="LHW/ZLLL">兰州中川机场</abbr>、<abbr title="XIY/ZLXY">西安咸阳机场</abbr>、<abbr title="TSN/ZBTJ">天津滨海机场</abbr>、<abbr title="TXN/ZSTX">黄山屯溪机场</abbr></p>
 
@@ -236,9 +156,9 @@ pre code {
 
 <h3>到达过的城市级行政区</h3>
 
-<p>广州市、茂名市、北京市、佛山市、肇庆市、深圳市、郑州市、三亚市、成都市、乐山市、重庆市、宜昌市、青岛市、烟台市、济南市、上海市、杭州市、嘉兴市、桂林市、珠海市、澳门特别行政区、苏州市、南昌市、黄山市、香港特别行政区、桃园县、台北市、花莲县、台东县、屏东县、高雄市、福州市、武汉市、南京市、无锡市、宁波市、太原市、晋中市、石家庄市、兰州市、西宁市、海南藏族自治州、西安市、咸阳市、天津市</p>
+<p>广州市、茂名市、北京市、佛山市、肇庆市、深圳市、郑州市、三亚市、成都市、乐山市、重庆市、宜昌市、青岛市、烟台市、济南市、上海市、杭州市、嘉兴市、桂林市、珠海市、澳门特别行政区、苏州市、南昌市、黄山市、香港特别行政区、桃园县、台北市、花莲县、台东县、屏东县、高雄市、福州市、武汉市、南京市、无锡市、宁波市、太原市、晋中市、石家庄市、兰州市、西宁市、海南藏族自治州、西安市、咸阳市、天津市、九江市</p>
 
-<p>共计 54 个</p>
+<p>共计 55 个</p>
 
 <p>（含非背包旅行，按第一次到达时间顺序排列，不计算市辖县等第三级行政区；湖南省全境 14 个地州市中除郴州市、怀化市、娄底市、益阳市以及张家界市以外均到达过，但到达时间与顺序已不可考，故不列明细）</p>
 
@@ -469,7 +389,7 @@ pre code {
 
 <h3>逐次背包旅行</h3>
 
-<p>共计 21 段背包旅行，不含非自助旅行、因公出行以及湖南、上海境内的短途旅行。</p>
+<p>共计 27 段背包旅行，不含非自助旅行、因公出行以及湖南、上海境内的短途旅行。</p>
 
 <h6>成都-峨眉山-三峡 (July '09):</h6>
 
@@ -582,6 +502,12 @@ pre code {
 <h6>黄山 (July '14):</h6>
 
 <p>安徽省: 黄山市</p>
+
+<h6>九江 (August '14):</h6>
+
+<p>江西省: 九江市</p>
+
+<p>湖北省: 武汉市</p>
 
 <hr />
 
@@ -1028,21 +954,7 @@ if(document.body.clientWidth < 450) {
 
 <p><a href="http://cnphil.com/">Phil Xiaojun Hu</a></p>
 
-<p><i>Last updated: Sun Jul 13 09:21:41 UTC 2014</i></p>
-
-<script src="bubbles.js"></script> 
-<script>
-    bubblesMain(new Object({
-        type : 'linear',
-        minSpeed : 5,
-        maxSpeed : 10,
-        minSize : 100,
-        maxSize : 220,
-        num : 10,
-        opacity: 0.4,
-        colors : new Array('#0080FF','#FC4CC4','#0080FF','#FC4CC4','#0080FF','#FC4CC4','#0080FF','#FC4CC4','#0080FF','#45F026')
-    }));
-</script>
+<p><i>Last updated: Mon Oct  6 05:46:38 UTC 2014</i></p>
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="http://d3js.org/topojson.v1.min.js"></script>
@@ -1084,13 +996,13 @@ if(document.body.clientWidth < 450) {
         context.beginPath();
         path(sphere);
         context.lineWidth = 2;
-        context.strokeStyle = "#fff";
+        context.strokeStyle = "#000";
         context.stroke();
 
         context.beginPath();
         path(land);
         context.lineWidth = 1;
-        context.strokeStyle = "#fff";
+        context.strokeStyle = "#000";
         context.stroke();
     });
     });
