@@ -1,0 +1,1 @@
+main = putStrLn "it works"
