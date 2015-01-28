@@ -120,8 +120,13 @@ Changsha-Shanghai Trips:
 2013.07 (Train Shanghaihongqiao-Changsha) 1169km
 2013.09 (Air CSX-SHA) 872km
 2013.09 (Nanjing Backpack Trip) 0km
+2014.01 (Xibei Trip) 0km
+2014.02 (Train Changsha-Shanghaihongqiao) 1169km
+2014.08 (Jiujiang Trip) 0km
+2014.09 (Train Changshanan-Shanghaihongqiao) 1173km
+2015.01 (Train Shanghaihongqiao-Changshanan) 1083km
 
-Total: 25149km
+Total: 28574km
 ----
 
 Various trips in Hunan, Guangdong, and Shanghai not included.
@@ -191,14 +196,26 @@ Huangshan 2014: Train 672km (Shanghai-Huangshan), Bus 55km (Tunxi-Tangkou), 32km
 Jiujiang 2014: Train 952km (Shanghainan-Jiujiang), 328km (Jiujiang-Hankou), 362km (Wuhan-Changshanan), Bus 72km (Jiujiang-Lushan-Jiujiang)
 #Train: 1642km, Bus: 72km
 
-Total (+Taiwan): 40248km, Train 30171km, Bus 3064km, Drive 906km, Air 5119km, Boat 726km, Cycle 255km, Other 7km.
+Suzhou 2014: Train 84km (Shanghai-Suzhou), 84km (Suzhou-Shanghaihongqiao)
+#Train: 168km
+
+Nanjing III 2014: Train 301km (Shanghai-Nanjing), 64km (Nanjing-Zhenjiang), 237km (Zhenjiang-Shanghaihongqiao)
+#Train: 602km
+
+Total (+Taiwan): 41018km, Train 30941km, Bus 3064km, Drive 906km, Air 5119km, Boat 726km, Cycle 255km, Other 7km.
 
 ----
 
 Not included yet:
-In Shanghai 2013:
+Shanghai 2013:
 Train: Shanghainan-Jinshanwei (2*55km)
 
 Train: Shanghainan-Jinshanyuanqu (33km), Jinshanyuanqu-Tinglin (7km), Tinglin-Yexie (6km), Yexie-Chedun (10km), Chedun-Xinqiao (5km), Xinqiao-Chunshen (5km), Chunshen-Shanghainan (10km)
 
 Train: Shanghaixi-Shanghai (5km)
+
+Hunan 2014 (February):
+Train: Changsha-Zhuzhou (52km), Zhuzhou-Shaoyang (233km)
+
+Shanghai 2014 (November):
+Train: Antingbei-Shanghai (29km)
