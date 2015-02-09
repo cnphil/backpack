@@ -202,7 +202,10 @@ Suzhou 2014: Train 84km (Shanghai-Suzhou), 84km (Suzhou-Shanghaihongqiao)
 Nanjing III 2014: Train 301km (Shanghai-Nanjing), 64km (Nanjing-Zhenjiang), 237km (Zhenjiang-Shanghaihongqiao)
 #Train: 602km
 
-Total (+Taiwan): 41018km, Train 30941km, Bus 3064km, Drive 906km, Air 5119km, Boat 726km, Cycle 255km, Other 7km.
+Guiyang 2015: Train 52km (Changsha-Zhuzhou), 897km (Zhuzhou-Guiyang), 864km (Guiyangbei-Guangzhounan), 47km (Guangzhoubei-Guangzhounan), 76km (Guangzhounan-Zhaoqingdong)
+#Train: 1936km
+
+Total (+Taiwan): 42954km, Train 32877km, Bus 3064km, Drive 906km, Air 5119km, Boat 726km, Cycle 255km, Other 7km.
 
 ----
 
