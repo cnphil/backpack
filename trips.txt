@@ -205,7 +205,10 @@ Nanjing III 2014: Train 301km (Shanghai-Nanjing), 64km (Nanjing-Zhenjiang), 237k
 Guiyang 2015: Train 52km (Changsha-Zhuzhou), 897km (Zhuzhou-Guiyang), 864km (Guiyangbei-Guangzhounan), 47km (Guangzhoubei-Guangzhounan), 76km (Guangzhounan-Zhaoqingdong)
 #Train: 1936km
 
-Total (+Taiwan): 42954km, Train 32877km, Bus 3064km, Drive 906km, Air 5119km, Boat 726km, Cycle 255km, Other 7km.
+Yangzhou 2015: Train 230km (Shanghaihongqiao-Zhenjiangnan), Bus 35km (Zhenjiang-Yangzhou), Train 101km (Yangzhou-Nanjing), 295km (Nanjingnan-Shanghaihongqiao)
+#Train: 626km, Bus: 35km
+
+Total (+Taiwan): 43615km, Train 33503km, Bus 3099km, Drive 906km, Air 5119km, Boat 726km, Cycle 255km, Other 7km.
 
 ----
 
@@ -222,3 +225,6 @@ Train: Changsha-Zhuzhou (52km), Zhuzhou-Shaoyang (233km)
 
 Shanghai 2014 (November):
 Train: Antingbei-Shanghai (29km)
+
+Shanghai 2015 (March):
+Train: Shanghainan-Luchaogang (93km)
