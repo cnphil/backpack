@@ -211,6 +211,62 @@ Yangzhou 2015: Train 230km (Shanghaihongqiao-Zhenjiangnan), Bus 35km (Zhenjiang-
 Total (+Taiwan): 43615km, Train 33503km, Bus 3099km, Drive 906km, Air 5119km, Boat 726km, Cycle 255km, Other 7km.
 
 ----
+Dec 2015 Addition:
+
+June 2015:
+Suzhou
+	Shanghai-Suzhou #Train 84km
+	Suzhou-Shanghaihongqiao #Train 84km
+	TOTAL: Train 168km
+
+July 2015:
+Graduation
+	Shanghaihongqiao-Changshanan #Train 1083km
+	CSX-XIY #Air 813km
+	Xian-Baoji-Lanzhou #Train 676km
+	Lanzhou-Shuiyuan #Train 23km
+	Lanzhouxi-Xining #Train 188km
+	Xining-Xian #Train 892km
+	Xianbei-Huashanbei #Train 121km
+	Huashan-Xian #Train 123km
+	Xianbei-Zhengzhoudong #Train 523km
+	Zhengzhou-Taishan #Train 595km
+	Taian-Shanghaihongqiao #Train 853km
+	Shanghaihongqiao-Hangzhou #Train 169km
+	Hangzhoudong-Shanghaihongqiao #Train 159km
+	Shanghai-Suzhou #Train 84km
+	Suzhou-Shanghai #Train 84km
+	Shanghai-Kowloon #Train 1991km
+	Kowloon-Guangzhoudong #Train 173km
+	Guangzhounan-Changshanan #Train #Train: 707km
+	TOTAL: Train 8444km, Air 813km
+
+October 2015:
+Beijing
+	Shanghaihongqiao-Beijingnan #Train 1318km
+	Beijingdong-Yanjiao #Train 31km
+	Yanjiao-Beijingdong #Train 31km
+	Beijingnan-Shanghaihongqiao #Train 1318km
+	TOTAL: Train 2698km
+
+November 2015:
+Xiamen
+	Shanghainan-Fuzhou #Train 987km
+	Fuzhou-Xiamen #Train 191km
+	Xiamenbei-Shanghaihongqiao #Train 1109km
+	TOTAL: Train 2287km
+
+December 2015:
+Suzhou
+	Shanghaihongqiao-Suzhou #Train 84km
+	Suzhoubei-Shanghaihongqiao #Train 81km
+	TOTAL: Train 165km
+
+DEC 2015 ADDITION:
+Air 813km, 13762km
+Total (+Taiwan): 58190km, Train 47265km, Bus 3099km, Drive 906km, Air 5932km, Boat 726km, Cycle 255km, Other 7km.
+
+----
 
 Not included yet:
 Shanghai 2013:
