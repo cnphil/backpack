@@ -125,8 +125,13 @@ Changsha-Shanghai Trips:
 2014.08 (Jiujiang Trip) 0km
 2014.09 (Train Changshanan-Shanghaihongqiao) 1173km
 2015.01 (Train Shanghaihongqiao-Changshanan) 1083km
+2015.08 (Train Changshanan-Shanghaihongqiao) 1173km
+2016.01 (Air SHA-CSX) 872km
+2016.01 (Train Changshanan-Shanghaihongqiao) 1173km
+2016.02 (Train Shanghaihongqiao-Changshanan) 1173km
+2016.02 (Air CSX-SHA) 872km
 
-Total: 28574km
+Total: 33837km
 ----
 
 Various trips in Hunan, Guangdong, and Shanghai not included.
@@ -263,9 +268,48 @@ Suzhou
 	TOTAL: Train 165km
 
 DEC 2015 ADDITION:
-Air 813km, 13762km
-Total (+Taiwan): 58190km, Train 47265km, Bus 3099km, Drive 906km, Air 5932km, Boat 726km, Cycle 255km, Other 7km.
+Air 813km, Train 13762km
+----
+Jul 2016 Addition:
 
+December 2015:
+Shantou
+    SHA-SWA #Air 976km
+    SWA-PVG #Air 993km
+
+May 2016:
+Beijing
+    PVG-NAY #Air 1178km
+    Beijingnan-Shanghai #Train 1454km
+
+June 2016:
+Suzhou
+    Shanghai-Suzhou #Train 84km
+    Suzhoubei-Shanghaihongqiao #Train 81km
+    Shanghai-Suzhouyuanqu #Train 74km
+    Suzhou-Shanghai #Train 84km
+
+July 2016:
+Xi'an:
+    SHA-XIY #Air 1230km
+    XIY-PVG #Air 1275km
+
+JUL 2016 ADDITION:
+Air 5652km, Train 1777km
+
+Total (+Taiwan): 65619km, Train 49042km, Bus 3099km, Drive 906km, Air 11584km, Boat 726km, Cycle 255km, Other 7km.
+
+----
+International Airports and train stations:
+Caltrain:
+Sunnyvale, Mountain View, San Francisco, San Jose
+BART & AirTrain SFO (no stations listed)
+
+November 2015:
+PVG-SFO, SFO-PVG
+
+May-June 2016:
+PVG-NRT (layover)-HNL, HNL-OGG, OGG-SFO, SJC-NRT (layover)-PVG
 ----
 
 Not included yet:
