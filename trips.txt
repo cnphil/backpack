@@ -130,8 +130,12 @@ Changsha-Shanghai Trips:
 2016.01 (Train Changshanan-Shanghaihongqiao) 1173km
 2016.02 (Train Shanghaihongqiao-Changshanan) 1173km
 2016.02 (Air CSX-SHA) 872km
+2016.08 (Air SHA-CSX) 872km
+2016.08 (Train Changshanan-Shanghaihongqiao) 1173km
+2016.08 (Train Shanghaihongqiao-Changshanan) 1173km
+2016.08 (Train Changshanan-Shanghaihongqiao) 1173km
 
-Total: 33837km
+Total: 38228km
 ----
 
 Various trips in Hunan, Guangdong, and Shanghai not included.
@@ -296,8 +300,56 @@ Xi'an:
 
 JUL 2016 ADDITION:
 Air 5652km, Train 1777km
+----
+Dec 2016 Addition:
 
-Total (+Taiwan): 65619km, Train 49042km, Bus 3099km, Drive 906km, Air 11584km, Boat 726km, Cycle 255km, Other 7km.
+August 2016:
+Nanjing
+    Shanghaihongqiao-Nanjingnan #Train 295km
+    Nanjingnan-Shanghaihongqiao #Train 295km
+
+October 2016:
+Wuzhen
+    Shanghaihongqiao-Tongxiang #Train 112km
+    Tongxiang-Shanghaihongqiao #Train 112km
+
+October 2016:
+Guangzhou
+    SHA-CAN #Air 1174km
+    Guangzhoudong-Shanghai #Train 1818km
+
+<!-- October 2016 Shanghai<->Huangshan business trip ignored -->
+
+November 2016:
+Hangzhou
+    Shanghaihongqiao-Hangzhoudong #Train 159km
+    Hangzhoudong-Shanghaihongqiao #Train 159km
+
+November 2016:
+Nanchang
+    Shanghainan-Nanchang #Train 818km
+    Nanchangxi-Changshanan #Train 342km
+    Changshanan-Shanghaihongqiao #Train 1173km
+
+December 2016:
+Luoyang
+    Shanghai-Luoyanglongmen #Train 1140km
+    LYA-SHA #Air 925km
+
+December 2016:
+Suzhou
+    Shanghaihongqiao-Suzhou #Train 84km
+    Suzhou-Shanghai #Train 84km
+
+December 2016:
+Hangzhou
+    Shanghaihongqiao-Hangzhoudong #Train 159km
+    Hangzhou-Shanghaihongqiao #Train 169km
+
+DEC 2016 ADDITION:
+Air 2099km, Train 6919km
+
+Total (+Taiwan): 74637km, Train 55961km, Bus 3099km, Drive 906km, Air 13683km, Boat 726km, Cycle 255km, Other 7km.
 
 ----
 International Airports and train stations:
